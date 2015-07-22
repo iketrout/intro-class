@@ -1,0 +1,32 @@
+.pink {
+    background-color: black;
+   
+}
+
+.red {
+    background-color: #00FFFF;
+}
+
+.blue {
+    background-color: dimgrey;
+}
+
+.green {
+    background-color: black;
+}
+
+.orange {
+    background-color: black;
+}
+
+.box {
+    height: 200px;
+    background-clip: content-box;
+    padding: 5px;
+    transition: .3s;
+}
+
+.box:hover {
+    border-radius: 50px;
+    opacity: .2;
+}
